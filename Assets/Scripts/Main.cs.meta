@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 89df8d4b270391944adbafd14f67da3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - airport: {instanceID: 0}
+  - plane: {instanceID: 0}
+  - clouds: {instanceID: 0}
+  - blitzLight: {instanceID: 0}
+  - mainLightGO: {instanceID: 0}
+  - relax: {fileID: 8300000, guid: a1d0d545795d80e498388c54f975e512, type: 3}
+  - stress: {fileID: 8300000, guid: 20cfd035aec31384e8beaf08fdd406d3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
